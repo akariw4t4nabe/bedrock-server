@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Itsme64's Unlimited Villager Trades Pack",
+		"description": "This pack allows to to trade an unlimited amount of times with villagers, without their trades running out, or them having to restock!",
+		"uuid": "092075a1-44ac-4960-92b9-24ea1b7ed884",
+		"version": [ 1, 2, 1],
+		"min_engine_version": [1,13,0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e3d40ed0-9dc9-41c0-b21b-955235564d6c",
+			"version": [ 1, 2, 1]
+		}
+	]
+}

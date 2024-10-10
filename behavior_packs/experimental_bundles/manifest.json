@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Experimental behavior pack for Bundles",
+        "name": "Bundles",
+        "uuid": "f61b1af6-61de-4657-9891-935ce81c6585",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 21, 30 ]
+    },
+    "modules": [
+        {
+            "description": "Experimental behavior pack for Bundles",
+            "type": "data",
+            "uuid": "9604c589-707e-4471-9e44-07f6e6cff3cc",
+            "version": [ 0, 0, 1 ]
+        }
+    ]
+}

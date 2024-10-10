@@ -1,0 +1,41 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§3§lMade by SystemTv Twitter@SystemTv_",
+        "name": "Definitive Tree Capitator V1.9 Addon §9Behavior Pack",
+        "uuid": "b3538a6c-3e42-400a-9ed0-5ec1670b796c",
+        "version": [1, 0, 0],
+        "min_engine_version": [
+            1,
+            20,
+            30
+        ]
+    },
+    "modules": [
+        {
+            "description": "§3§lMade by SystemTv Twitter@SystemTv_",
+            "type": "data",
+            "uuid": "904acd44-a712-4a43-b9a0-383cb594fa22",
+            "version": [1, 0, 0]
+        },
+        {
+            "description": "gametesting",
+            "language": "javascript",
+            "type": "script",
+            "uuid": "a96a2dd3-86e9-4f82-ae5f-a717282d3f1c",
+            "version": [
+                0,
+                0,
+                1
+            ],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "capabilities": [ "script_eval" ],
+    "dependencies": [
+      {
+          "module_name": "@minecraft/server",
+          "version": "1.10.0"
+      }
+  ]
+}
